@@ -1,0 +1,15 @@
+schemaVersion: 1
+id: retroassembly-demo
+name: RetroAssembly
+description: A browser-based retro game cabinet demo with a curated set of free legal homebrew games for NES, SNES, Genesis, Game Boy Color, and Game Boy Advance.
+url: https://retroassembly.com/demo
+category: games
+source: https://github.com/arianrhodsandlot/retroassembly
+official: true
+thirdParty: false
+tags:
+  - games
+  - retro
+  - emulator
+  - homebrew
+author: RetroAssembly
