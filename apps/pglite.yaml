@@ -2,7 +2,7 @@ schemaVersion: 1
 id: pglite
 name: PGlite
 description: A lightweight PostgreSQL build for the browser and JavaScript runtimes, powered by WebAssembly.
-url: https://pglite.dev/
+url: https://pglite.dev/repl/
 category: database
 source: https://github.com/electric-sql/pglite
 official: true

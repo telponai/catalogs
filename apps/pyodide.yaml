@@ -2,7 +2,7 @@ schemaVersion: 1
 id: pyodide
 name: Pyodide
 description: A Python distribution for the browser and Node.js based on WebAssembly, including Python packages and JavaScript interoperability.
-url: https://pyodide.org/
+url: https://pyodide.org/en/stable/console.html
 category: development
 source: https://github.com/pyodide/pyodide
 official: true
