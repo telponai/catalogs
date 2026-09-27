@@ -1,0 +1,1 @@
+{"name":"@telponai/catalogs","private":true,"type":"module","scripts":{"test":"node --test","build":"node scripts/build-catalog.mjs"},"dependencies":{"ajv":"^8.17.1","parse5":"^8.0.0","yaml":"^2.8.1"}}

@@ -1,0 +1,12 @@
+schemaVersion: 1
+id: youtube-music-player
+name: YouTube Music Player
+description: A feature-rich web music player powered by YouTube.
+url: https://jacob7179.github.io/YouTube-Music-Player-Web/
+category: music
+source: https://github.com/Jacob7179/YouTube-Music-Player-Web
+tags:
+  - music
+  - youtube
+  - player
+author: Jacob7179
