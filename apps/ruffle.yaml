@@ -2,7 +2,7 @@ schemaVersion: 1
 id: ruffle
 name: Ruffle
 description: A Flash Player emulator written in Rust that runs legacy Flash content safely in modern browsers through WebAssembly.
-url: https://ruffle.rs/
+url: https://ruffle.rs/demo/?file=logo-anim.swf
 category: emulator
 source: https://github.com/ruffle-rs/ruffle
 official: true
