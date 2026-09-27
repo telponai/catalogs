@@ -14,6 +14,7 @@ export async function buildCatalog({appsDir,schemaPath,fetchImpl=globalThis.fetc
  for(const file of files){let app;try{const doc=YAML.parseDocument(await readFile(join(dir,file),'utf8'),{uniqueKeys:true,maxAliasCount:0});if(doc.errors.length)throw doc.errors[0];app=doc.toJS({maxAliasCount:0})}catch(e){throw Error(`Invalid YAML in ${file}: ${e.message}`)}
   for(const key of ['url','source','icon'])if(app?.[key]!==undefined)app[key]=normalizeUrl(app[key])
   if(!validate(app))throw Error(`Invalid schema in ${file}: ${ajv.errorsText(validate.errors)}`)
+  if(app.thirdParty===true&&(app.official!==false||!app.disclaimer?.trim()))throw Error(`Third-party entries must set official false and include a disclaimer: ${file}`)
   if(`${app.id}.yaml`!==file)throw Error(`Filename must match id: ${file}`)
   if(ids.has(app.id))throw Error(`Duplicate app id: ${app.id}`);if(urls.has(app.url))throw Error(`Duplicate app URL: ${app.url}`);ids.add(app.id);urls.add(app.url)
   app.icon=await resolveIcon(app,fetchImpl);apps.push(app)

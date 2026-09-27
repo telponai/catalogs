@@ -1,10 +1,13 @@
 schemaVersion: 1
 id: youtube-music-player
 name: YouTube Music Player
-description: A feature-rich web music player powered by YouTube.
+description: An unofficial third-party web music player that uses YouTube as a media source.
 url: https://jacob7179.github.io/YouTube-Music-Player-Web/
 category: music
 source: https://github.com/Jacob7179/YouTube-Music-Player-Web
+official: false
+thirdParty: true
+disclaimer: Unofficial community app. Not affiliated with or endorsed by YouTube or Google.
 tags:
   - music
   - youtube
