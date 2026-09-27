@@ -1,0 +1,15 @@
+schemaVersion: 1
+id: pyodide
+name: Pyodide
+description: A Python distribution for the browser and Node.js based on WebAssembly, including Python packages and JavaScript interoperability.
+url: https://pyodide.org/
+category: development
+source: https://github.com/pyodide/pyodide
+official: true
+thirdParty: false
+tags:
+  - python
+  - wasm
+  - runtime
+  - development
+author: Pyodide

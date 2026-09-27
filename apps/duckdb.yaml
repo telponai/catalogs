@@ -1,0 +1,15 @@
+schemaVersion: 1
+id: duckdb
+name: DuckDB
+description: A browser-based DuckDB SQL shell for running analytical queries locally with DuckDB-Wasm.
+url: https://shell.duckdb.org/
+category: database
+source: https://github.com/duckdb/duckdb-wasm
+official: true
+thirdParty: false
+tags:
+  - database
+  - sql
+  - analytics
+  - wasm
+author: DuckDB

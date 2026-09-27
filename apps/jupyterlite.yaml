@@ -1,0 +1,15 @@
+schemaVersion: 1
+id: jupyterlite
+name: JupyterLite
+description: A Jupyter environment that runs entirely in the browser, powered by WebAssembly and modern web technologies.
+url: https://jupyterlite.github.io/
+category: development
+source: https://github.com/jupyterlite/jupyterlite
+official: true
+thirdParty: false
+tags:
+  - jupyter
+  - python
+  - wasm
+  - notebook
+author: Project Jupyter

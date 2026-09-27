@@ -1,0 +1,15 @@
+schemaVersion: 1
+id: tldraw
+name: tldraw
+description: A collaborative infinite canvas for drawing, diagramming, sketching, and visual thinking in the browser.
+url: https://www.tldraw.com/
+category: drawing
+source: https://github.com/tldraw/tldraw
+official: true
+thirdParty: false
+tags:
+  - drawing
+  - whiteboard
+  - canvas
+  - collaboration
+author: tldraw

@@ -1,0 +1,14 @@
+schemaVersion: 1
+id: geogebra
+name: GeoGebra
+description: An interactive mathematics platform for geometry, algebra, graphing, statistics, calculus, and classroom exploration.
+url: https://www.geogebra.org/
+category: education
+official: true
+thirdParty: false
+tags:
+  - math
+  - geometry
+  - graphing
+  - education
+author: GeoGebra

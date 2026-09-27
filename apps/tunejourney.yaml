@@ -1,0 +1,13 @@
+schemaVersion: 1
+id: tunejourney
+name: TuneJourney
+description: A browser-based music experience for exploring and listening to music through an interactive web interface.
+url: https://tunejourney.com/
+category: music
+official: true
+thirdParty: false
+tags:
+  - music
+  - player
+  - discovery
+author: TuneJourney

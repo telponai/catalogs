@@ -1,0 +1,15 @@
+schemaVersion: 1
+id: hypersomnia
+name: Hypersomnia
+description: A fast-paced open-source multiplayer top-down shooter playable directly in the browser.
+url: https://play.hypersomnia.io/
+category: games
+source: https://github.com/TeamHypersomnia/Hypersomnia
+official: true
+thirdParty: false
+tags:
+  - games
+  - multiplayer
+  - shooter
+  - browser
+author: Hypersomnia
