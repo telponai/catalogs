@@ -1,0 +1,14 @@
+schemaVersion: 1
+id: beepbox
+name: BeepBox
+description: A browser-based tool for sketching and sharing instrumental melodies, with song data encoded in shareable URLs.
+url: https://www.beepbox.co/
+category: music
+source: https://github.com/johnnesky/beepbox
+official: true
+thirdParty: false
+tags:
+  - music
+  - composer
+  - synthesizer
+author: John Nesky

@@ -1,0 +1,15 @@
+schemaVersion: 1
+id: js-paint
+name: JS Paint
+description: A browser-based recreation of classic Microsoft Paint with additional modern image editing and accessibility features.
+url: https://jspaint.app/
+category: drawing
+source: https://github.com/1j01/jspaint
+official: false
+thirdParty: true
+disclaimer: Unofficial community recreation. Not affiliated with or endorsed by Microsoft.
+tags:
+  - drawing
+  - paint
+  - image-editor
+author: Isaiah Odhner

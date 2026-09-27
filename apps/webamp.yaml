@@ -1,0 +1,15 @@
+schemaVersion: 1
+id: webamp
+name: Webamp
+description: A browser reimplementation of the classic Winamp 2 interface with local audio playback, skins, playlists, and visualizations.
+url: https://webamp.org/
+category: music
+source: https://github.com/captbaritone/webamp
+official: false
+thirdParty: true
+disclaimer: Unofficial browser reimplementation. Not affiliated with or endorsed by Winamp or its trademark owners.
+tags:
+  - music
+  - player
+  - retro
+author: Jordan Eldredge

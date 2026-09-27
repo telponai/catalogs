@@ -1,0 +1,14 @@
+schemaVersion: 1
+id: minipaint
+name: miniPaint
+description: A full browser-based image editor with layers, filters, drawing tools, and local image import/export without uploading files to a server.
+url: https://viliusle.github.io/miniPaint/
+category: image-editor
+source: https://github.com/viliusle/miniPaint
+official: true
+thirdParty: false
+tags:
+  - image-editor
+  - drawing
+  - local-first
+author: Vilius L.

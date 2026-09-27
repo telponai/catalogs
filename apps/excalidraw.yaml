@@ -1,0 +1,14 @@
+schemaVersion: 1
+id: excalidraw
+name: Excalidraw
+description: An open-source virtual whiteboard for hand-drawn style diagrams, sketches, wireframes, and collaborative visual notes.
+url: https://excalidraw.com/
+category: drawing
+source: https://github.com/excalidraw/excalidraw
+official: true
+thirdParty: false
+tags:
+  - drawing
+  - whiteboard
+  - diagrams
+author: Excalidraw
